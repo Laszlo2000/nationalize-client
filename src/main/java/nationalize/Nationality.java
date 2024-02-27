@@ -1,7 +1,6 @@
 package nationalize;
 
 import com.google.gson.annotations.SerializedName;
-import lombok.Lombok;
 
 import java.util.List;
 

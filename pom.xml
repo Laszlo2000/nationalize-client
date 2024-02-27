@@ -10,7 +10,7 @@
         <developer>
             <id>ETALU9</id>
             <name>Ilonczai Laszlo</name>
-            <email>laszlo2033@gmail.com</email>
+            <email>laszloilonczai@gmail.com</email>
             <organization>Faculty of Informatics, University of Debrecen</organization>
             <organizationUrl>https://www.inf.unideb.hu/</organizationUrl>
         </developer>
@@ -18,7 +18,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.build.outputEncoding>UTF-8</project.build.outputEncoding>
-        <maven.compiler.release>11</maven.compiler.release>
+        <maven.compiler.release>17</maven.compiler.release>
         <mainClass>nationalize.Main</mainClass>
     </properties>
     <dependencies>
